@@ -14,7 +14,7 @@
 -(void)update:(CCTime)delta
 {
     // put update code here
-    [self addObstacle];
+
 }
 
 - (void)touchBegan:(UITouch *)touch withEvent:(UIEvent *)event {
